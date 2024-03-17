@@ -3,6 +3,7 @@
 Free Cash Flow:
 
 https://www.investopedia.com/terms/f/freecashflow.asp
+
 Free Cash Flow Yield:
 
 https://www.investopedia.com/articles/fundamental-analysis/09/free-cash-flow-yield.asp
