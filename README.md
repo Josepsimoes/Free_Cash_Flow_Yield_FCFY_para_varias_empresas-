@@ -31,3 +31,7 @@ Existe uma ferramenta de medição comparável ao índice P/L que utiliza a demo
 Felizmente, sim. Podemos usar o fluxo de caixa livre e dividi-lo pelo valor da empresa como um indicador mais confiável. Chamado de rendimento do fluxo de caixa livre, isso oferece aos investidores outra maneira de avaliar o valor de uma empresa que é comparável ao índice P/L. Como esta medida utiliza o fluxo de caixa livre, o rendimento do fluxo de caixa livre fornece uma medida melhor do desempenho de uma empresa.
 
 A maneira mais comum de calcular o rendimento do fluxo de caixa livre é usar a capitalização de mercado como divisor.
+
+\begin{align}
+        \text{Free Cash Flow Yield} = \frac{\text{Free Cash Flow (Fluxo de Caixa Livre) }}{\text{Market Capitalization (Valor de Mercado)}}
+    \end{align}
